@@ -1,0 +1,47 @@
+/*
+
+-------------------- LoginController
+
+UC06: Fazer Login                                       - feito/testado
+UC07: Recuperar Senha                                   - feito/testado 
+UC08: Cadastrar nova senha                              - feito/testado
+
+-------------------- ProfileController
+
+UC09: Gerenciar Perfil	                                - feito/testado
+UC10: Editar dados cadastrais	                        - feito/testado
+
+-------------------- UserController
+
+UC01: Fazer Cadastro                                    - feito/testado
+UC02: Listar Solicitações de Cadastro                   - feito/testado
+UC03: Visualizar Detalhes da Solicitação de Cadastro    - feito/testado
+UC04: Aprovar Cadastro                                  - feito/testado
+UC05: Recusar Cadastro                                  - feito/testado
+UC11: Listar Usuários Cadastrados                       - feito/testado
+UC12: Desativar usuários	                            - feito/testado
+UC13: Visualizar Dados Cadastrais do Usuário	        - feito/testado
+
+-------------------- ProductController
+
+UC14: Listar Produtos	                                - feito/testado
+UC15: Inserir Produto	                                - feito/testado
+UC16: Editar Produto	                                - feito/testado
+UC17: Excluir Produto	                                - feito/testado
+
+-------------------- AdController
+
+UC18: Listar Anúncios	                                - feito/testado
+UC19: Inserir Anúncio	                                - feito/testado
+UC20: Editar Anúncio	                                - feito/testado
+UC21: Desativar Anúncio                                 - feito/testado
+
+-------------------- AdMetricsController
+
+UC22: Listar Métricas do Anúncio	                   - feito/testado
+UC23: Inserir Métricas do Anúncio	                   - feito/testado
+UC24: Editar Métricas do Anúncio	                   - feito/testato
+UC25: Excluir Métricas de Anúncio	                   - feito/testado
+
+
+*/
